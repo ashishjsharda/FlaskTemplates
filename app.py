@@ -9,7 +9,7 @@ def hello_world():  # put application's code here
     return '''
     <html>
         <head>
-            <title>Home Page - Microblog</title>
+            <title>Home Page</title>
         </head>
         <body>
             <h1>Hello, ''' + user['username'] + '''!</h1>
